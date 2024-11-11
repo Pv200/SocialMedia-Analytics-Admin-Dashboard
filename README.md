@@ -1,5 +1,6 @@
 # Social Media Admin Dashboard
-
+## Video Link
+https://www.loom.com/share/26342ec62b8c4fbb88cab350066dcf66?sid=5e25dffb-3564-4d54-88bb-cedcdebce3dc
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/1870adba-ed2c-491d-845f-8af25de47e3c)
