@@ -1,6 +1,13 @@
 # Social Media Admin Dashboard
 
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/1870adba-ed2c-491d-845f-8af25de47e3c)
+![image](https://github.com/user-attachments/assets/69f8723e-fd4e-4114-873f-7f36ed605ce1)
+![image](https://github.com/user-attachments/assets/61189d80-597a-4ad2-a512-42bf296b87c8)
+![image](https://github.com/user-attachments/assets/7151db4d-014a-4d34-94df-2a107320d174)
+
+
 
 ---
 
